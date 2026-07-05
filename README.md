@@ -1,7 +1,7 @@
 <!-- ===================================================================== -->
 <!-- README.md — GitHub Profile                                            -->
-<!-- Replace ALL instances of YOUR_GITHUB_USERNAME with your GitHub handle -->
-<!-- Replace placeholder links (LinkedIn, Portfolio, Facebook, Email, Kofi)-->
+<!-- GitHub username set to: MarkPagkaliwagan                              -->
+<!-- Replace placeholder links (Facebook, Kofi/BuyMeACoffee, repo names)   -->
 <!-- with your real links before publishing.                              -->
 <!-- ===================================================================== -->
 
@@ -19,13 +19,13 @@
 <br/>
 
 <!-- ===================== PROFILE VIEWS BADGE ===================== -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=MarkPagkaliwagan&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views"/>
 
 <br/><br/>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
-<!-- Replace href values with your real profile links -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<!-- Replace href values with your real profile links where marked -->
+<a href="https://github.com/MarkPagkaliwagan">
   <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=00F0FF" />
 </a>
 <a href="https://linkedin.com/in/mrkyboy">
@@ -34,6 +34,7 @@
 <a href="https://mrky-boy.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=00F0FF" />
 </a>
+<!-- Replace YOUR_FACEBOOK_USERNAME with your actual Facebook username -->
 <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME">
   <img src="https://img.shields.io/badge/Facebook-0F172A?style=for-the-badge&logo=facebook&logoColor=00F0FF" />
 </a>
@@ -109,12 +110,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&bg_color=0F172A&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9&border_color=00F0FF&hide_border=false" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&bg_color=0F172A&title_color=00F0FF&text_color=C9D1D9&border_color=00F0FF&hide_border=false" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MarkPagkaliwagan&show_icons=true&theme=tokyonight&bg_color=0F172A&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9&border_color=00F0FF&hide_border=false" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkPagkaliwagan&layout=compact&theme=tokyonight&bg_color=0F172A&title_color=00F0FF&text_color=C9D1D9&border_color=00F0FF&hide_border=false" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=0F172A&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&border=00F0FF" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkPagkaliwagan&theme=tokyonight&background=0F172A&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&border=00F0FF" width="70%"/>
 
 </div>
 
@@ -125,7 +126,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MarkPagkaliwagan&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%"/>
 
 </div>
 
@@ -136,7 +137,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0F172A&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarkPagkaliwagan&theme=tokyo-night&bg_color=0F172A&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=false" width="100%"/>
 
 </div>
 
@@ -144,6 +145,8 @@
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀 Featured Projects
+
+<!-- Replace REPO_NAME below with your actual repository names for each project -->
 
 <div align="center">
 
@@ -158,7 +161,7 @@
       <a href="https://mrky-boy.vercel.app">
         <img src="https://img.shields.io/badge/Live%20Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=00F0FF"/>
       </a>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME">
+      <a href="https://github.com/MarkPagkaliwagan/REPO_NAME">
         <img src="https://img.shields.io/badge/Source-0F172A?style=for-the-badge&logo=github&logoColor=00F0FF"/>
       </a>
     </td>
@@ -171,7 +174,7 @@
       <a href="#">
         <img src="https://img.shields.io/badge/Live%20Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=00F0FF"/>
       </a>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME">
+      <a href="https://github.com/MarkPagkaliwagan/REPO_NAME">
         <img src="https://img.shields.io/badge/Source-0F172A?style=for-the-badge&logo=github&logoColor=00F0FF"/>
       </a>
     </td>
@@ -184,7 +187,7 @@
       <a href="#">
         <img src="https://img.shields.io/badge/Live%20Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=00F0FF"/>
       </a>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME">
+      <a href="https://github.com/MarkPagkaliwagan/REPO_NAME">
         <img src="https://img.shields.io/badge/Source-0F172A?style=for-the-badge&logo=github&logoColor=00F0FF"/>
       </a>
     </td>
@@ -248,13 +251,14 @@
 
 If you like my work, consider supporting me — every bit of support keeps me building! 🚀
 
+<!-- Replace YOUR_USERNAME below with your actual Buy Me a Coffee / Ko-fi username -->
 <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-0F172A?style=for-the-badge&logo=buymeacoffee&logoColor=00F0FF"/>
 </a>
 <a href="https://ko-fi.com/YOUR_USERNAME">
   <img src="https://img.shields.io/badge/Ko--fi-0F172A?style=for-the-badge&logo=kofi&logoColor=00F0FF"/>
 </a>
-<a href="https://github.com/sponsors/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/sponsors/MarkPagkaliwagan">
   <img src="https://img.shields.io/badge/GitHub%20Sponsors-0F172A?style=for-the-badge&logo=githubsponsors&logoColor=00F0FF"/>
 </a>
 
