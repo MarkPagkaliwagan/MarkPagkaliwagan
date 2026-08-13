@@ -79,6 +79,14 @@ REST API Development · Agile/Scrum · CRUD Operations · Authentication · Resp
   <b>324 contributions</b> in the last year — actively building and shipping across projects like <code>systemBPLO</code>, <code>MarkyBoy</code>, <code>SASONexus</code>, <code>KapeTayo</code>, and more.
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/MarkPagkaliwagan" alt="Mark's GitHub contribution calendar" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarkPagkaliwagan&theme=github-compact&hide_border=true" alt="Mark's GitHub activity graph" width="100%" />
+</p>
+
 ---
 
 ### 📫 Let's Connect
