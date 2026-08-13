@@ -71,8 +71,8 @@ REST API Development · Agile/Scrum · CRUD Operations · Authentication · Resp
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarkPagkaliwagan&show_icons=true&theme=default&hide_border=true" alt="Mark's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkPagkaliwagan&hide_border=true" alt="Mark's GitHub streak" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarkPagkaliwagan&show_icons=true&theme=default&hide_border=true" alt="Mark's GitHub stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=MarkPagkaliwagan&hide_border=true" alt="Mark's GitHub streak" height="165" />
 </p>
 
 <p align="center">
